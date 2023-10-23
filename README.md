@@ -1,5 +1,5 @@
 [Nome do Projeto]
-[imagem ilustrativa do projeto]
+![imagem ilustrativa do projeto](https://github.com/GabrielNogueira00/Projeto-Banco-De-Dados---Universidade/blob/main/Destacada_Qual_tipo_de_Banco_de_Dados_utilizar.png)
 Descrição
 Breve descrição do que é o projeto e qual problema ele pretende
 resolver.
